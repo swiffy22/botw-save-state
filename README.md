@@ -1,5 +1,5 @@
 # Save State Code Documentation
-#### Version 1.1.1 (02/21/2022) - by Swiffy22
+**Version 1.1.1 (02/21/2022) - by Swiffy22**
 
 After tons of effort, lots of patience, and the help of a dozen people along the way, I’m proud to present Breath of the Wild’s first major practice tool. This repository will serve as a place to store and update the codes and document any quirks that come along with using them.  Click on the listed feature to jump to the [known issues](#known-issues) for them. To be clear, this code does not at all create a “true” save state. Rather, it saves some of the most important values that you can restore later. Holding pause and dpad left will create the save state, holding pause and dpad right will restore it. You can press them in either order. Due to limitations with Atmosphere’s code handler, the code is split into four parts, which I’ve attempted to split in a sensical way.
 
